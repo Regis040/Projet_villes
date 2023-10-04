@@ -49,8 +49,9 @@ nav {
     color: #fff;
  }
 
- a {
-    
+ header a {
+    color: white;
+    text-decoration: none;
  }
 
 /* Le "main" : dans lequel j'ai mes sections */
